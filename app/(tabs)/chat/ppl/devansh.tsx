@@ -1,12 +1,10 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-const saved = () => {
+export default function devansh() {
   return (
     <View>
-      <Text>saved</Text>
+      <Text>devansh</Text>
     </View>
   )
 }
-
-export default saved
